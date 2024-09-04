@@ -1,4 +1,4 @@
-gitlab/gitlab-ee:13.11.7-ee.0
+gitlab/gitlab-ee:17.3.1-ee.0
 # gitlab/gitlab-ee:latest
 
 #支持私库
