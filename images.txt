@@ -1,4 +1,4 @@
-registry.gitlab.com/gitlab-org/gitlab-docs:13.11
+gitlab/gitlab-ee:17.3.3-ee.0
 # gitlab/gitlab-ee:latest
 
 #支持私库
