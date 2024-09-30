@@ -1,4 +1,5 @@
-redmine:latest
+jenkins/jenkins:2.462.2-lts-jdk21
+
 # gitlab/gitlab-ee:latest
 
 #支持私库
