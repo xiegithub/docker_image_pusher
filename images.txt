@@ -1,4 +1,4 @@
-jenkins/jenkins:2.462.2-lts-jdk21
+redis:7.4.1
 
 # gitlab/gitlab-ee:latest
 
